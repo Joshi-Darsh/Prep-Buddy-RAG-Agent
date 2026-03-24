@@ -134,6 +134,8 @@ All tuneable parameters are in `config.py`:
 
 **Darsh Joshi**
 - Contributor: Prompt Engineering and QA
+- GitHub: [Joshi-Darsh](https://github.com/Joshi-Darsh)
+- LinkedIn: [darsh-joshi1214](https://www.linkedin.com/in/darsh-joshi1214/)
 
 ## Role Ownership
 
